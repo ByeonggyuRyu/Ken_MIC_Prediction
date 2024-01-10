@@ -1,0 +1,6 @@
+[submodule "Enformer_MIC_Prediction"]
+	path = Enformer_MIC_Prediction
+	url = https://github.com/ByeonggyuRyu/Enformer_MIC_Prediction.git
+[submodule "CNN_MIC_Prediction"]
+	path = CNN_MIC_Prediction
+	url = https://github.com/ByeonggyuRyu/CNN_MIC_Prediction.git
